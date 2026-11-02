@@ -1372,6 +1372,7 @@ RunService.RenderStepped:Connect(function(dt)
                                 else cache.handBox.Visible = false; cache.handText.Visible = false end
                             else cache.handBox.Visible = false; cache.handText.Visible = false end
                         else cache.handBox.Visible = false; cache.handText.Visible = false end
+                    end -- <-- FALTAVA ESTE 'END' QUE FECHAVA A VERIFICAÇÃO DO ESP HAND ITEM!
 
                     -- MINI-RADAR BLIP
                     if settings.radarAdvancedEnabled and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
