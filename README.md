@@ -12,3 +12,8 @@ Repositório dedicado a scripts em Lua otimizados para uso no executor Delta em 
 * **Loader:**
 ```lua
 loadstring(game:HttpGet("[https://raw.githubusercontent.com/LORDths123/script-delta/refs/heads/main/Aimbot%20kill%20menos%20vida.lua](https://raw.githubusercontent.com/LORDths123/script-delta/refs/heads/main/Aimbot%20kill%20menos%20vida.lua)"))()
+
+2. Optimizer Roblox MAX
+​O que faz: Um otimizador de desempenho pesado (FPS Boost).
+​Para que serve: Reduz gráficos, remove texturas pesadas e desativa efeitos visuais desnecessários para garantir que o Roblox rode de forma fluida e sem travamentos no seu celular em qualquer mapa ou jogo.
+​Loader:
