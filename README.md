@@ -1,6 +1,7 @@
 ​🚀 Script Delta Hub
 ​Repositório dedicado a scripts em Lua otimizados para uso no executor Delta em dispositivos móveis. Atenção: Todos os scripts abaixo funcionam de forma universal em todos os jogos do Roblox!
-​📂 Lista de Scripts
+
+#​📂 Lista de Scripts
 
 ​1. Aimbot Kill Menus Vida
 ​O que faz: Um script de mira automática (aimbot) focado em priorizar e alvejar os inimigos que estão com a vida mais baixa.
@@ -13,6 +14,7 @@ Loader:loadstring(game:HttpGet("https://raw.githubusercontent.com/LORDths123/scr
 ​Para que serve: Reduz gráficos, remove texturas pesadas e desativa efeitos visuais desnecessários para garantir que o Roblox rode de forma fluida e sem travamentos no seu celular em qualquer mapa ou jogo.
 
 Loader:loadstring(game:HttpGet("https://raw.githubusercontent.com/LORDths123/script-delta/refs/heads/main/Optimizer%20roblox%20MAX.lua"))()
+
 ​3. Universal Aimbot Lite
 ​O que faz: Uma versão leve (lite) e simplificada de aimbot.
 ​Para que serve: Funciona de maneira universal em qualquer jogo do Roblox, ajudando na precisão da sua mira sem pesar no desempenho.
